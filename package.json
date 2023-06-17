@@ -1,0 +1,19 @@
+{
+  "name": "food_ordering_app",
+  "version": "1.0.0",
+  "description": "Food ordering app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Manishh444/effective-goggles.git"
+  },
+  "author": "Manisshhhhh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manishh444/effective-goggles/issues"
+  },
+  "homepage": "https://github.com/Manishh444/effective-goggles#readme"
+}
